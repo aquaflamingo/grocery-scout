@@ -1,0 +1,71 @@
+{
+  "Loblaws": {
+    "Kale": 2.99,
+    "Apples": 3.49,
+    "Almond Milk": 3.99,
+    "Fibre 1 Cereal": 4.99,
+    "Cabbage": 0.99,
+    "Salmon": 15.99,
+    "Ground Beef": 5.99,
+    "Brussels Sprouts": 2.99,
+    "Tortilla Wraps": 3.99,
+    "Onions": 1.99,
+    "Garlic": 1.99,
+    "Sweet Potato": 1.99,
+    "Swiss Chard": 3.99,
+    "Red / Green / Yellow Peppers": 4.99,
+    "Avocados": 1.99,
+    "Baby Bell Cheese": 3.99,
+    "Eggs": 3.99
+  },
+  "Farm Boy": {
+    "Cabbage": 0.89,
+    "Ground Beef": 5.99,
+    "Brussels Sprouts": 3.49,
+    "Onions": 0.99,
+    "Garlic": 1.99,
+    "Sweet Potato": 1.99,
+    "Red / Green / Yellow Peppers": 1.99,
+    "Avocados": 1.79,
+    "Eggs": 3.49
+  },
+  "Food Basics": {
+    "Kale": 2.99,
+    "Apples": 2.99,
+    "Almond Milk": 3.99,
+    "Cabbage": 0.59,
+    "Ground Beef": 4.99,
+    "Brussels Sprouts": 2.99,
+    "Tortilla Wraps": 3.49,
+    "Onions": 1.99,
+    "Garlic": 1.99,
+    "Sweet Potato": 0.88,
+    "Red / Green / Yellow Peppers": 1.99,
+    "Avocados": 1.99,
+    "Eggs": 2.99
+  },
+  "FreshCo": {
+    "Kale": 2.99,
+    "Apples": 2.99,
+    "Almond Milk": 3.99,
+    "Cabbage": 0.59,
+    "Ground Beef": 4.99,
+    "Brussels Sprouts": 2.99,
+    "Tortilla Wraps": 3.49,
+    "Onions": 1.99,
+    "Garlic": 1.99,
+    "Sweet Potato": 0.99,
+    "Red / Green / Yellow Peppers": 1.99,
+    "Avocados": 1.99,
+    "Eggs": 2.99
+  },
+  "Longo's": {
+    "Kale": 3.99,
+    "Apples": 3.99,
+    "Almond Milk": 3.99,
+    "Cabbage": 1.49,
+    "Salmon": 17.99,
+    "Ground Beef": 6.99,
+    "Brussels Sprouts": 3.99
+  }
+}
