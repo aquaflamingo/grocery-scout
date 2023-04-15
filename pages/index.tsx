@@ -38,7 +38,7 @@ export default function Home({ retailers }: InferGetStaticPropsType<typeof getSt
 	return (
 		<div className="flex flex-col items-center justify-center min-h-screen">
 			<h1 className="text-4xl font-bold mb-6">Toronto Grocery Scout</h1>
-			<p>Using OpenAI's ChatGPT, the following indices of prices were compiled for produce through to 2021. If the item is not listed it is because ChatGPT could not
+			<p>Using OpenAI's ChatGPT, the following indices of prices were compiled for produce through to 2021. If the item is not listed it is because ChatGPT could not</p>
 			<br/>
 			<select
 				value={selectedRetailer}
