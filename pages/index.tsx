@@ -3,8 +3,6 @@ import { Inter } from 'next/font/google'
 import { useState, useEffect } from "react";
 import { GetStaticProps, InferGetStaticPropsType } from "next";
 
-import GroceryGrowth from "./groceryGrowth.tsx" 
-
 const inter = Inter({ subsets: ['latin'] })
 
 
@@ -61,8 +59,6 @@ export default function Home({ retailers }: InferGetStaticPropsType<typeof getSt
 					</li>
 				))}
 			</ul>
-
-			<GroceryGrowth/>
 		</div>
 		);
 }
